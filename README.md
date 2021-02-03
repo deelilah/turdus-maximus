@@ -1,4 +1,4 @@
-# turdus-maximus
+# Turdus Maximus
 A notebook on computer vision
 
 <!-- PROJECT LOGO -->
